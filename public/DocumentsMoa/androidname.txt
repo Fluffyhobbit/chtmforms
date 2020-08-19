@@ -1,0 +1,16 @@
+Covid-19 has claimed thousand of lives around the world and we us citizens of each country
+must work together to eradicate this virus. CovidAssistant is a app that will give you important
+information that will help you stay safe from the virus	such what are the stages of of covid-19
+like asympmonatic,mild, or severe. Being informed in a during this pandemice is the key to keep ourselves and people around us to be safe.
+As many people say "wisdom is power" and CovidAssistant to keep your self-informed. You might be thinking why do we need this up if 
+there are many platforms such social media and the internet to get this kinds of information, well the problems with this are like in the case
+of social is that not all information are trustworthy since there are fake news and for the case for in the internet you would still need to search this information to
+get this information. With all this problem CovidAssistant is the app to keep you informed
+
+Features
+Case tracker
+	This feature lets users track the number of cases in each city in the philippines. This numbers will be comming from thier local administrations such as the barangay halls. We will
+be also getting this from the official website of DOH.
+	Status checker lets you know the status of each city such as what level of ecq are they are in such as modified or general community quarantine. Status check also lets you know what
+they have in each city you have follow. Status also lets you know if this city is allowing tourist to visit their city 																
+	Hospital capability lets you know the capability of each city in handling covid cases. Such as covid facilities of each city. Number of covid patients. How many recovered or passed away in their cities.
